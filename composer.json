@@ -1,12 +1,12 @@
 {
-    "name": "ludoz/twig",
+    "name": "ludo/twig",
     "authors": [
         {
             "name": "Ludovic Rabat",
-            "email": "ludovic@playsharp.pro"
+            "email": "ludo.rabat@gmail.com"
         }
     ],
     "require": {
-        "twig/twig": "2.0"
+        "twig/twig": "^2.0"
     }
 }
