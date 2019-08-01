@@ -48,5 +48,4 @@ echo $twig->render('homepage.html', [
     'menus'         => $menus,
     'socialMedia'   => $socialMedia,
     'address'       => $address,
-    'loader' => $loader
 ]);
