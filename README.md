@@ -1,5 +1,4 @@
 # Twig starter
 
-Lancer le projet à l'aide de la commande :
-
+Start the project using the command:
 `localhost -S localhost:8080 -t public`
